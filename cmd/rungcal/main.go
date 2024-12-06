@@ -8,7 +8,7 @@ import (
 	_ "time/tzdata"
 
 	"github.com/alecthomas/kingpin/v2"
-	"github.com/ciloholic/rungcal"
+	"github.com/crowdworks/rungcal"
 	"github.com/hashicorp/logutils"
 )
 
