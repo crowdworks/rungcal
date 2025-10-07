@@ -14,5 +14,5 @@ $ go run ./cmd/rungcal/main.go insert --project=*** --target-date="yyyy-mm-dd" -
 # golangci-lint
 
 ```
-$ docker run -t --rm -v $(pwd):/app -w /app golangci/golangci-lint:v2.4.0-alpine golangci-lint run -v
+$ docker run -t --rm -v $(pwd):/app -w /app golangci/golangci-lint:v2.5.0-alpine golangci-lint run -v
 ```
